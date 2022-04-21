@@ -1,14 +1,4 @@
-![Cryptocurrency Exchange Platform - Baseapp](https://github.com/openware/meta/raw/main/images/github_baseapp.png)
 
-<h3 align="center">
-<a href="https://www.openware.com/sdk/docs.html#baseapp">Guide</a> <span>&vert;</span> 
-<a href="https://www.openware.com/sdk/api.html">API Docs</a> <span>&vert;</span> 
-<a href="https://www.openware.com/">Consulting</a> <span>&vert;</span> 
-<a href="https://t.me/peatio">Community</a>
-</h3>
-<h6 align="center">Component part of <a href="https://github.com/openware/opendax">OpenDAX Trading Platform</a></h6>
-
----
 
 # OpenDAX BaseApp UI
 ## User Interface for Trading and Wallets Management
